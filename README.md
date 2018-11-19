@@ -1,6 +1,3 @@
-# svnServerBuild
-svn server build mac
-
 svn服务器的搭建
 =======================================
 ```
@@ -56,4 +53,4 @@ svn服务器的搭建
     svn help；
 ```
 
-svnserver
+
